@@ -20,6 +20,7 @@ Parts:
     - Boiling Point
     - Melting Point
     - Molar Mass
+    - Density
     - Physical Properties
     - # Electrons/Protons/Neutrons
     - Flame colour
@@ -36,3 +37,16 @@ Parts:
       - Charge of an electron
       - Mass of an electron
     - Ideal Gas Constants (all versions)
+
+Required Classes:
+- Sig fig class
+  - add method
+  - subtract method
+  - multiply method
+  - divide method
+- Element abstract class
+  - Metal Class
+  - Gas Class
+  - Metalloid Class
+  - Transitional Metal Class
+  - Lanthanoid Class
