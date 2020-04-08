@@ -1,1 +1,38 @@
+Balkulator:
+An app that serves the function of a Chemistry Data Sheet, and more. 
 
+Parts:
+- Calculators
+  - Molar Mass Calculator
+  - Electron Configuration Calculator
+  - Lewis Structure Modeling
+  - Ionic Compound Calculator
+  - Ideal Gas Law (With and without D.D. of Water)
+  - Coulombs Law
+  - Stoichiometry Calculator
+  - Balancing Chemical Equations
+  - (C1)(V1) = (C2)(V2)
+- Lookup
+  - Element Search:
+    -(Can search up element x and get all properties listed, or list some characteristics and get element x returned) 
+    - Name
+    - Symbol
+    - Boiling Point
+    - Melting Point
+    - Molar Mass
+    - Physical Properties
+    - # Electrons/Protons/Neutrons
+    - Flame colour
+  - Solubility Table
+  - Atomic Radius
+  - Electron Affinity
+  - Ionization Energy
+  - Electronegativity
+  - Isotopes
+  - Activity series
+  - Constants:
+    - Avogadro's constant
+    - Mass ratio of electrons
+      - Charge of an electron
+      - Mass of an electron
+    - Ideal Gas Constants (all versions)
