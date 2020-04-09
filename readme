@@ -1,6 +1,10 @@
 Balkulator:
 An app that serves the function of a Chemistry Data Sheet, and more. 
 
+Parts Completed:
+- SigFig class
+  - add, subtract, multiply, divide
+
 Parts:
 - Calculators
   - Molar Mass Calculator
