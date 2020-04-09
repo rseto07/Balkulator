@@ -39,17 +39,17 @@ public class SigFig {
 	
 	private static String getDecimal(String x) {
 		boolean afterDecimal = false;
-		String separated = ""; // Avoids string containing null
+		String decimal = ""; // Avoids string containing null
 		for(int i = 0; i < x.length(); i++) {
 			if(x.charAt(i) == '.') {
 				afterDecimal = true;
 				i++;
 			}
 			if(afterDecimal) {
-				separated += x.charAt(i);
+				decimal += x.charAt(i);
 			} 
 		}
-		return separated;
+		return decimal;
 	}
 	public static String multiply(String a, String b) {
 		int sf1 = determineSigFig(a);
