@@ -1,6 +1,16 @@
 Balkulator:
 An app that serves the function of a Chemistry Data Sheet, and more. 
 
+Priority:
+1. Periodic Table
+  a. Electrons/Protons/Neutrons
+  b. Molar Mass
+  c. Names/Abbreviations
+  d. Density
+  e. Boiling/Melting Point
+2. 
+
+
 Parts Completed:
 - SigFig class
   - add, subtract, multiply, divide
